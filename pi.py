@@ -56,7 +56,7 @@ def main():  # Wrapper function
     for d in pi_digits:
             print(d, end='')
             i += 1
-            if i == 100:
+            if i == 200:
                 print("")
                 i = 0
 
